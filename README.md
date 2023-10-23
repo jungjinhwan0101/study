@@ -1,3 +1,3 @@
-# java-backend-study
+# Study
 
-:thumbsup:
+- [메가테라](메가테라/README.md)
